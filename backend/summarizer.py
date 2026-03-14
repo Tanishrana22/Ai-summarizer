@@ -1,6 +1,6 @@
 from transformers import pipeline
 
-# load model
+
 summarizer = pipeline(
     "text-generation",
     model="google/flan-t5-small"
