@@ -86,4 +86,6 @@ Make sure you have both **Node.js** (for the frontend) and **Python** (for the b
 ---
 
 ## 👨‍💻 Author
-Created by **[Your Name/Username]** during a 2-month Agentic AI Internship.
+Created by **[Tanish Rana]** during a 6-month Agentic AI Internship.
+
+Main Aim to enhance the skills of Agentic Ai tools and development
